@@ -3,6 +3,7 @@
 # USERNAME
 # PASSWORD
 # HOSTNAME
+# DIRECTORY
 
 # Dont forget: chmod +x mysqlbackup_list_from-db.sh
 
